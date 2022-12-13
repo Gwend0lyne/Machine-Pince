@@ -1,2 +1,2 @@
-# Projet ARDUINO Jade Wagner Gwendolyne Bouchard
-Machine à pince
+# Projet ARDUINO - Jade Wagner Gwendolyne Bouchard
+## Machine à pince
