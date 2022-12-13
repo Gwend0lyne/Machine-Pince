@@ -1,3 +1,5 @@
+# Cahier des charges
+
 Machine à pince qui se pilote à partir d'un joystick :   
 - Taille d'environ 50cm² pour la base et 50cm de hauteur
 - Joystick avant-arrière: on choisit la profondeur à laquelle on veut être   
