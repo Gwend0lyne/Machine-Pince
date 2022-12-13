@@ -1,4 +1,5 @@
-Planning pour les 8 premières scéances :   
+# Planning pour les 8 premières scéances 
+
 1. * Recherche du matériel nécessaire, des composants Arduino   
    * Gwendolyne : Choisir les formes adaptées, pour que les pièces puissent être assemblées les unes avec les autres et adapter ensuite l'esthétique de la machine à pince.   
    * Jade : Définir les mouvements mécaniques nécessaires au bon fonctionnement afin de pouvoir commencer à coder à la séance prochaine.
